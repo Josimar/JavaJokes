@@ -1,0 +1,1 @@
+# JavaJokes by Chuck Norris
